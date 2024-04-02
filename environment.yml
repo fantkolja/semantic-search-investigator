@@ -1,0 +1,12 @@
+name: semantic-search-investigator
+channels:
+  - huggingface
+  - conda-forge
+  - defaults
+dependencies:
+  - datasets
+  - jupyter
+  - matplotlib
+  - numpy
+  - pandas
+prefix: /Users/mykolafant/anaconda3/envs/semantic-search-investigator
